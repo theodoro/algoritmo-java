@@ -1,0 +1,10 @@
+package br.com.aquino.jdbc;
+
+
+public class Connection {
+	
+	Conexao con;
+	
+	
+
+}
